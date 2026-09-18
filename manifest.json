@@ -1,6 +1,6 @@
 {
-  "name": "Ежедневник АН",
-  "short_name": "Ежедневник",
+  "name": "Расписание соброаний",
+  "short_name": "Расписание",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
